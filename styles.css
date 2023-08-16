@@ -115,4 +115,12 @@ h2{
     margin: auto;
 }
 
+#boton{
+    background: #b51989;
+    color: #fff;
+    font-size: 30px;
+    border-radius: 15px;
+    padding: 10px;
+    font-weight: 800;
 
+}
