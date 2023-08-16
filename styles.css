@@ -72,3 +72,47 @@ article{
 article footer{
     text-align: right;
 }
+
+.columna{
+    float: left;
+    width: 30%;
+    margin: 20px;
+    background-color: #f1f1f1;
+    padding: 20px;
+}
+
+.programador{
+    float: left;
+    margin: 20px;
+}
+
+
+#pieInformacion{
+    background: #005a87;
+    padding: 20px;
+    color: #fff;
+    text-align: center;
+    clear: both;
+
+}
+
+h1{
+    font-size: 25px;
+    text-shadow: 2px 2px 5px red;
+}
+
+h2{
+    font-size: 20px;
+}
+
+#imgProgramador{
+    width: 200px;
+    margin: auto;
+}
+
+#imagen{
+    width: 25%;
+    margin: auto;
+}
+
+
